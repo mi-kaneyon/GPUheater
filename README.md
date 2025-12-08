@@ -1,7 +1,15 @@
 # GPUheater
 - Making warm in the cold office by GPU power
 
+## added power stress type ver.
 
+**calcgppower.py**
+
+```
+pip install ttkbootstrap
+
+
+```
 - A simple, lightweight Python utility designed to apply a configurable load to NVIDIA GPUs. It allows users to test thermal performance, fan curves, and system stability under stress, providing a real-time GUI to monitor GPU utilization, VRAM usage, and fan speed.
 
 ## Screenshot
